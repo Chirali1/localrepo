@@ -1,2 +1,2 @@
 print("local repository")
-print("commit chnages")
+print("commit changes")
